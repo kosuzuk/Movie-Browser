@@ -1,0 +1,42 @@
+PODS:
+  - Kingfisher (7.5.0)
+  - lottie-ios (4.1.2)
+  - Nimble (11.2.1)
+  - Quick (6.1.0)
+  - Realm (10.33.0):
+    - Realm/Headers (= 10.33.0)
+  - Realm/Headers (10.33.0)
+  - RealmSwift (10.33.0):
+    - Realm (= 10.33.0)
+  - Swinject (2.8.2)
+
+DEPENDENCIES:
+  - Kingfisher
+  - lottie-ios
+  - Nimble
+  - Quick
+  - RealmSwift
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - lottie-ios
+    - Nimble
+    - Quick
+    - Realm
+    - RealmSwift
+    - Swinject
+
+SPEC CHECKSUMS:
+  Kingfisher: b9c2a4a4af2990a768445c277359b27bde287d71
+  lottie-ios: b3846a9fa8ca1a1a3bebfa256ebe8b6fd4aaaaad
+  Nimble: 516ac503a0fafaa8e41dbb4a70a61be421fa893a
+  Quick: 6676ffb409bf04abba2ff23902af2407bfc6ac90
+  Realm: d4f810e161fa2c2c589b9860b6eb09238deacd73
+  RealmSwift: cef9946f09f2333a8f2ac8bac4f8de52fb9f5ac3
+  Swinject: b4a11b31992e8668308dc594ba1cb9b3164a37ab
+
+PODFILE CHECKSUM: b7f729036be494732a8ed312d5efe164680c3b9b
+
+COCOAPODS: 1.11.3
